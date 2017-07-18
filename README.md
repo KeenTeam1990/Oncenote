@@ -67,4 +67,4 @@ createdAt:Date
 ###(7)设置界面
 ![Alt text](https://github.com/chenyufeng1991/iOS-Oncenote/raw/master/Screenshots/12.png)
 ##5.技术博客
-我的个人技术博客：[http://blog.csdn.net/chenyufeng1991](http://blog.csdn.net/chenyufeng1991) 。欢迎大家访问！
+我的个人技术博客：[https://github.com/KeenTeam1990] 。欢迎大家访问！
